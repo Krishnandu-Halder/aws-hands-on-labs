@@ -1,0 +1,20 @@
+{
+  "project": "ShopSphere",
+  "products": [
+    {
+      "id": 1,
+      "name": "Mechanical Keyboard",
+      "price": 2699.00
+    },
+    {
+      "id": 2,
+      "name": "Wireless Mouse",
+      "price": 1299.00
+    },
+    {
+      "id": 3,
+      "name": "USB-C Hub",
+      "price": 1799.00
+    }
+  ]
+}
